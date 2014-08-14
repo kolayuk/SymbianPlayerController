@@ -1,0 +1,1 @@
+copy this files to epoc32/release/armv5/lib

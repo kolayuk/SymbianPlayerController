@@ -1,0 +1,41 @@
+/*
+* Copyright (c) 2006 Nokia Corporation and/or its subsidiary(-ies).
+* All rights reserved.
+* This component and the accompanying materials are made available
+* under the terms of "Eclipse Public License v1.0"
+* which accompanies this distribution, and is available
+* at the URL "http://www.eclipse.org/legal/epl-v10.html".
+*
+* Initial Contributors:
+* Nokia Corporation - initial contribution.
+*
+* Contributors:
+*
+* Description:  Resource header for project View plugin type
+*
+*/
+
+
+
+#ifndef MPXMUSICPLAYERVIEWPLUGIN_HRH
+#define MPXMUSICPLAYERVIEWPLUGIN_HRH
+
+/** Plugin type UIDs */
+#define KMPXPluginTypePlaybackUid           0x101FFCA0
+#define KMPXPluginTypeCollectionUid         0x101FFCA1
+#define KMPXPluginTypeAudioEffectsUid       0x101FFCA2
+#define KMPXPluginTypeEqualizerUid          0x101FFCA3
+#define KMPXPluginTypeMetadataEditorUid     0x101FFCA4
+#define KMPXPluginTypeAlbumArtEditorUid     0x101FFCA5
+#define KMPXPluginTypePlaylistEditorUid     0x101FFCA6
+#define KMPXPluginTypeAddSongsEditorUid     0x101FFCA7
+#define KMPXPluginTypeMainUid               0x101FFCA9
+#define KMPXPluginTypeUPnPBrowseDialogUid   0x101FFCAD
+#define KMPXPluginTypeEmbeddedPlaybackUid   0x1011FCAF
+#define KMPXPluginTypeWaitNoteDialogUid     0x101FFC6E
+//To restor last played and start playing automatically.
+#define KMPXPluginTypeLastPlayedUid         0x10207C1B
+
+#endif  // MPXMUSICPLAYERVIEWPLUGIN_HRH
+
+// End of File
